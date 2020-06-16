@@ -1,5 +1,5 @@
 // Desafio 01
-/*
+
 const name = "Carlos";
 const weight = 84;
 const height = 1.88;
@@ -12,25 +12,25 @@ if (imc > 30) {
 } else {
     console.log(`${name}, you are not above the weight `)
 }
-*/
 
-/*
-const nome = "Silvana";
-const sexo = "F";
-const idade = 48;
-const contribuicao = 23;
 
-if (sexo == "M") {
-    if ((idade + contribuicao) >= 85) {
-        console.log(`${nome}, Você esta aposentada`)
+
+const name = "Silvana";
+const gender = "F";
+const age = 48;
+const contribution = 23;
+
+if (gender == "M") {
+    if ((age + contribution) >= 85) {
+        console.log(`${name}, You're retired`)
     } else {
-        console.log(`${nome}, Você não esta aposentada`)
+        console.log(`${name}, You're not retired`)
     }
 } else {
-    if ((idade + contribuicao) >= 95) {
-        console.log(`${nome}, Você esta aposentado`)
+    if ((age + contribution) >= 95) {
+        console.log(`${name}, You're retired`)
     } else {
-        console.log(`${nome}, Você não esta aposentado`)
+        console.log(`${name}, You're not retired`)
     }
 }
-*/
+
