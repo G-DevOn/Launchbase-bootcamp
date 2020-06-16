@@ -17,8 +17,8 @@
 
 </p>
 
-# Index
-- [Index](#index)
+# :bookmark_tabs: Index
+
   - [:clipboard: About](#clipboard-about)
   - [:computer: Technologies](#computer-technologies)
   - [:file_folder: How to install](#file_folder-how-to-install)
