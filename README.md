@@ -26,8 +26,7 @@
 ---
 
 ## :clipboard: About
-This repository was created with objective, to put all exercises (challenges) i did during **Launchbase Bootcamp**.
-This README will be atualized according with my evolution at **Launchbase**.
+This repository was created with one goal - to save all the challenges I did during the **LaunchBase Bootcamp**. This readme will be updated according to my evolution at this course.
 
 ---
 
