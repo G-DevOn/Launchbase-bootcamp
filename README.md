@@ -32,8 +32,6 @@ This repository was created with one goal - to save all the challenges I did dur
 
 ## :computer: Technologies
 * [JavaScrit](https://www.javascript.com/)
-* [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 ---
 
